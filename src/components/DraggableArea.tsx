@@ -45,7 +45,7 @@ const DraggableArea = () => {
   };
 
   return (
-    <div className="w-1/5 bg-gray-200 h-full flex flex-col px-6 justify-center gap-2">
+    <div className="md:w-1/5 bg-gray-200 h-full flex flex-col px-6 justify-center gap-2 w-full">
       <div className="flex gap-1 flex-col">
         <label htmlFor="" className="text-sm text-gray-500 font-bold">
           Shape
